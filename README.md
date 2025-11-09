@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mostafa Omara</h1>
-<h3 align="center">💻 Flutter Developer | Clean Architecture Enthusiast | Mobile Experience Builder</h3>
+<h3 align="center">💻 Flutter Developer | Clean Architecture Enthusiast
 
 ---
 
