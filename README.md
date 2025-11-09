@@ -52,7 +52,7 @@
 ---
 
 ### 📄 My CV
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/MostafaOmara/MostafaOmara/raw/main/assets/Mostafa_Omara_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/mostafaOmara15/mostafaOmara15/blob/main/assets/mostafa_omara_cv.pdf)
 
 
 ---
