@@ -51,6 +51,12 @@
 
 ---
 
+### 📄 My CV
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/MostafaOmara/MostafaOmara/raw/main/assets/Mostafa_Omara_CV.pdf)
+
+
+---
+
 ### 📫 Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-omara-9205a9363)  
 - 📧 [mostafaaomaraa@gmail.com](mailto:mostafaaomaraa@gmail.com)
