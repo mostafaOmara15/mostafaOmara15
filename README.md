@@ -7,6 +7,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Sqflite](https://img.shields.io/badge/Sqflite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-00BFA5?style=for-the-badge&logo=stripe&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%2302569B?style=for-the-badge)
@@ -15,18 +16,30 @@
 ---
 
 ### 🌱 Currently Learning
-- Flutter Web & Responsive UI  
-- Unit Testing & TDD  
-- Advanced State Management (Cubit, Riverpod)  
-- Functional Programming in Dart  
+- Unit Testing & Test-Driven Development (TDD)  
+- CI/CD pipelines for Flutter apps  
+- Writing maintainable and testable Flutter code  
+- Improving app performance and scalability  
+
+---
+
+### 💪 Skills I've Mastered
+- Advanced **State Management** (Cubit, Bloc, Riverpod, Provider)  
+- **Clean Architecture** and SOLID Principles  
+- **Local Database** with Sqflite  
+- **API Integration**, Error Handling, and Dependency Injection  
+- **UI/UX Optimization** for mobile and web  
 
 ---
 
 ### 🧠 Featured Projects
-- 💰 **Flutter Cashier App** – responsive POS system for web and mobile  
-- 🗺️ **Maps & Location App** – integrating Google Maps & live tracking  
-- 💳 **Payment Integration Module** – secure online payments & subscriptions  
-- 🔐 **Clean Auth Architecture** – JWT handling & refresh token logic  
+- 🧬 **Leukemia Detection App** – Flutter app integrating AI/ML for early detection  
+- 💼 **Jop Souq App** – job marketplace with authentication & API integration  
+- 🎓 **Orange E-Learning App** – e-learning platform with responsive UI, payment integration & location features  
+- ☕ **Coffee SaaS Web App** – web platform divided into 3 modules:  
+  - **Super Admin** – platform administrator  
+  - **HG Admin** – store owner management  
+  - **Cashier** – point-of-sale interface for daily operations
 
 ---
 
@@ -39,9 +52,8 @@
 ---
 
 ### 📫 Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 mostafa.omara.dev@gmail.com  
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mostafa-omara-9205a9363)  
+- 📧 [mostafaaomaraa@gmail.com](mailto:mostafaaomaraa@gmail.com)
 
 ---
 
